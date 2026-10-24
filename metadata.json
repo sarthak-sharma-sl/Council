@@ -1,0 +1,6 @@
+{
+  "name": "Floor Duty Roster & Student Allocation Manager",
+  "description": "Minimal web interface to configure school floors, assign student council members & house prefects individually or by house, and export clean duty rosters to PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
